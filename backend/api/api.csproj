@@ -6,6 +6,7 @@
   <ItemGroup>
     <!--<PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.CosmosDB" Version="4.7.0" />-->
     <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.CosmosDB" Version="3.0.10" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Script.ExtensionsMetadataGenerator" Version="4.0.1" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.2.0" />
   </ItemGroup>
   <ItemGroup>
